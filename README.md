@@ -1,4 +1,4 @@
-# 🚀 WordPress + Elementor CRO & Performance Stack for Media Buyers
+# WordPress + Elementor CRO & Performance Stack for Media Buyers
 
 > **Stack e Toolkit de Desenvolvimento WordPress + Elementor voltado a Tráfego Pago, Otimização de Conversão (CRO) e Core Web Vitals (90+ Mobile).**
 
@@ -6,7 +6,7 @@ Desenvolvido especialmente para operações de tráfego pago e agências que dem
 
 ---
 
-## 🎯 Por que esta stack foi desenhada para Gestores de Tráfego?
+## Por que esta stack foi desenhada para Gestores de Tráfego?
 
 A maioria dos desenvolvedores entrega páginas pesadas cheias de plugins desnecessários, com botões que quebram eventos no Pixel do Meta/Google Ads e sem persistência de UTMs. Este projeto resolve isso na raiz:
 
@@ -26,7 +26,7 @@ A maioria dos desenvolvedores entrega páginas pesadas cheias de plugins desnece
 
 ---
 
-## 🛠️ Arquitetura e Estrutura dos Arquivos
+## Arquitetura e Estrutura dos Arquivos
 
 ```text
 wp-elementor-cro-toolkit/
@@ -37,7 +37,7 @@ wp-elementor-cro-toolkit/
 
 ---
 
-## ⚡ Metodologia de Refatoração e Criação de LPs
+## Metodologia de Refatoração e Criação de LPs
 
 Quando assumo uma página para refatorar ou criar do zero, sigo este fluxo de 5 etapas:
 
@@ -64,7 +64,7 @@ Quando assumo uma página para refatorar ou criar do zero, sigo este fluxo de 5 
 
 ---
 
-## 💻 Instalação do Toolkit no WordPress
+## Instalação do Toolkit no WordPress
 
 1. Baixe a pasta `wp-elementor-cro-toolkit` ou compacte em `.zip`.
 2. No painel do WordPress, vá em **Plugins > Adicionar Novo > Enviar Plugin**.
@@ -73,7 +73,7 @@ Quando assumo uma página para refatorar ou criar do zero, sigo este fluxo de 5 
 
 ---
 
-## 📊 Eventos disparados no `window.dataLayer`
+## Eventos disparados no `window.dataLayer`
 
 | Evento | Variáveis Enviadas | Quando dispara? |
 | :--- | :--- | :--- |
@@ -82,11 +82,12 @@ Quando assumo uma página para refatorar ou criar do zero, sigo este fluxo de 5 
 
 ---
 
-## 🤝 Parceria para Gestores de Tráfego & Produtores
+## Parceria para Gestores de Tráfego & Produtores
 
-Se você é gestor de tráfego pago ou dono de agência, pode contar comigo para:
 - **Repositório:** [github.com/barcelosneto/wp-elementor-cro-toolkit](https://github.com/barcelosneto/wp-elementor-cro-toolkit)
 - **Autor:** Pedro Moacyr Barcelos Neto
 
-- **Implementação e revisão completa de tagueamento** (GTM, Meta Pixel, Google Ads, GA4).
-- **Otimização de velocidade** para reduzir rejeição (*bounce rate*) e baixar o CPA dos seus anúncios.
+Para gestores de tráfego pago ou donos de agência:
+- Criação e refatoração de Landing Pages no WordPress + Elementor com agilidade.
+- Implementação e revisão completa de tagueamento (GTM, Meta Pixel, Google Ads, GA4).
+- Otimização de velocidade para reduzir taxa de rejeição e baixar o CPA dos anúncios.
